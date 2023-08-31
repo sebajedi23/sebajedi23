@@ -1,11 +1,10 @@
 # Hola, soy Sebastián Ojeda 🐶 Bienvenido(a) a mi repositorio
 
-###Bachiller en ciencias naturales y exactas y actualmente estudiante de Ingeniería Civil Eléctrica y Magíster en Ciencia de Datos
+### Bachiller en ciencias naturales y exactas y actualmente estudiante de Ingeniería Civil Eléctrica y Magíster en Ciencia de Datos
 
 ![](https://github.com/sebajedi23/sebajedi23/blob/main/homerswebpage.gif)
 
-
-
+### Acerca de mí
 <!--
 **sebajedi23/sebajedi23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
