@@ -1,6 +1,6 @@
 # Hola, soy Sebastián Ojeda 🐶 Bienvenido(a) a mi repositorio
 
-### Bachiller en ciencias naturales y exactas y actualmente estudiante de Ingeniería Civil Eléctrica y Magíster en Ciencia de Datos
+#### Bachiller en ciencias naturales y exactas y actualmente estudiante de Ingeniería Civil Eléctrica y Magíster en Ciencia de Datos
 
 ![](https://github.com/sebajedi23/sebajedi23/blob/main/homerswebpage.gif)
 
