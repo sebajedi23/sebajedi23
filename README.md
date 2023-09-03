@@ -27,7 +27,7 @@
 
 
 ### Contacto
-[email](mailto:sebastian.ojeda@ug.uchile.cl?subject=[GitHub]%20Source%20Han%20Sans)
+[Envíame un correo electrónico](mailto:sebastian.ojeda@ug.uchile.cl?subject=[GitHub]%20Source%20Han%20Sans)
 <!--
 **sebajedi23/sebajedi23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
