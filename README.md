@@ -1,11 +1,33 @@
 # Hola, soy Sebastián Ojeda 🐶 Bienvenido(a) a mi repositorio
 
-#### Bachiller en ciencias naturales y exactas y actualmente estudiante de Ingeniería Civil Eléctrica y Magíster en Ciencia de Datos
+#### Bachiller en ciencias naturales y exactas (Universidad de Chile) / Estudiante de Ingeniería Civil Eléctrica y Magíster en Ciencia de Datos (Universidad de Chile)
 
 ![](https://github.com/sebajedi23/sebajedi23/blob/main/homerswebpage.gif)
 
-## Presentación en construcción 🔧🔨
-![Habilidades](https://github-readme-tech-stack.vercel.app/api/cards?title=Habilidades&lineCount=1&line1=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPD94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJubyI%2FPgo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDIwMDEwOTA0Ly9FTiIKICJodHRwOi8vd3d3LnczLm9yZy9UUi8yMDAxL1JFQy1TVkctMjAwMTA5MDQvRFREL3N2ZzEwLmR0ZCI%2BCjxzdmcgdmVyc2lvbj0iMS4wIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiB3aWR0aD0iMTg2OS4wMDAwMDBwdCIgaGVpZ2h0PSIyMDQ4LjAwMDAwMHB0IiB2aWV3Qm94PSIwIDAgMTg2OS4wMDAwMDAgMjA0OC4wMDAwMDAiCiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWlkWU1pZCBtZWV0Ij4KCjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAuMDAwMDAwLDIwNDguMDAwMDAwKSBzY2FsZSgwLjEwMDAwMCwtMC4xMDAwMDApIgpmaWxsPSIjMDAwMDAwIiBzdHJva2U9Im5vbmUiPgo8cGF0aCBkPSJNODc2NSAyMDQ3MyBjLTM2NSAtNSAtODM5IC0zNCAtMTE5MCAtNzMgLTM2OSAtNDIgLTgzMyAtMTE0IC04NTEKLTEzMyAtNiAtNyAtNDQwIC01MTYgLTk2NCAtMTEzMiAtNTI1IC02MTYgLTk4NCAtMTE1NiAtMTAyMiAtMTE5OSBsLTY4IC03OSAwCi03MzggMCAtNzM5IDIxODAgMCAyMTgwIDAgMCAtMjgwIDAgLTI4MCAtMzA0NyAwIC0zMDQ4IDAgLTE0MjQgLTE2NzIgLTE0MjUKLTE2NzEgLTEzIC05NiBjLTQ1IC0zMjQgLTY0IC02MTMgLTY0IC05NzYgMCAtMzIyIDEwIC01MTUgNDIgLTgwMCA2MyAtNTY4CjIyNCAtMTM1NyAzNjUgLTE3ODggMjIwIC02NzEgNTQ0IC0xMTUzIDk4OSAtMTQ3MiAxMTUgLTgzIDM3OSAtMjE1IDUxOSAtMjYwCjEzMCAtNDIgMzEzIC04MCA0NTUgLTk1IDYyIC02IDQyNiAtMTAgOTIyIC0xMCBsODE5IDAgMCAxMDczIGMwIDg4NCAzIDEwOTQKMTUgMTE5OSA3MCA2MDEgMzUxIDExNjcgNzk5IDE2MTMgMTU1IDE1NSAyNTQgMjM2IDQzNCAzNTYgMjg0IDE4OSA2MjQgMzMzCjkzNyAzOTggMjg0IDU4IDExMyA1NCAyNzQ1IDYxIDI0MTQgNiAyNDE1IDYgMjUyNSAyOCA4NTAgMTY1IDE1MTQgNzg4IDE3MjUKMTYxOSA3MCAyNzcgNjUgNzYgNjUgMjYyOCAwIDI1NTIgNSAyMzQ3IC02NSAyNjExIC0yMTEgNzk1IC05MzIgMTQ0NiAtMTg2MAoxNjc5IC01NjYgMTQzIC0xNzI0IDI0MSAtMjY3NSAyMjh6IG0tMTk4NSAtMTM1MyBjMjMyIC02NSA0MTYgLTIxOSA1MjAgLTQzNQo2MSAtMTI1IDc5IC0xOTIgODcgLTMyNSAxMyAtMjMyIC02NSAtNDUxIC0yMTkgLTYxNiAtMzY1IC0zOTAgLTk4NyAtMzQwCi0xMjgyIDEwNSAtOTEgMTM3IC0xMzYgMjg3IC0xMzYgNDU5IC0xIDQxNCAyNzMgNzQ5IDY3NSA4MjggOTUgMTggMjU4IDExIDM1NQotMTZ6Ii8%2BCjwvZz4KPC9zdmc%2BCg%3D%3D%2CPython%2C%3B)
+## Acerca de mí
+· Actualmente estoy cursando mi quinto año de Ingeniería Civil Eléctrica en el núcleo de Inteligencia Computacional en la Universidad de Chile. <br />
+· Adicionalmente me encuentro cursando el Magíster en Ciencia de Datos en la Universidad de Chile. <br />
+· Me gusta estar al tanto en los nuevos desarrollos tecnológicos de la industria. <br />
+
+## Tech Stack 🔧🔨
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
+![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat-square&logo=numpy&logoColor=white])
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat-square&logo=pandas&logoColor=white])
+![Plotly](https://img.shields.io/badge/Plotly-239120?style=flat-square&logo=plotly&logoColor=white])
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white])
+![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white])
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+[![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)](https://mariadb.org/)
+[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![DataGrip](https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white)](https://www.jetbrains.com/datagrip/)
+[![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
+![jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white)
+
+
+### Contacto
+[email](mailto:sebastian.ojeda@ug.uchile.cl?subject=[GitHub]%20Source%20Han%20Sans)
 <!--
 **sebajedi23/sebajedi23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
