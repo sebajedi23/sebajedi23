@@ -1,12 +1,12 @@
 # Hola, soy Sebastián Ojeda 👋
 
-#### Data Scientist | Data Engineer | Magíster en Ciencia de Datos — Universidad de Chile
+#### Data Scientist | Magíster en Ciencia de Datos — Universidad de Chile
 
 ![](https://github.com/sebajedi23/sebajedi23/blob/main/homerswebpage.gif)
 
 ## Acerca de mí
 
-- Trabajo como **Data Engineer Semi Senior / Desarrollador IA Generativa** en GlobalConexus, desarrollando soluciones de IA Generativa para la industria minera (Antofagasta Minerals).
+- Trabajo como **Data Scientist / Desarrollador IA Generativa** en Antofagasta Minerals, desarrollando soluciones de IA Generativa para la industria minera.
 - Especializado en **pipelines RAG**, agentes LLM y arquitecturas de IA generativa con Azure, Databricks y LangChain.
 - Magíster en Ciencia de Datos (Universidad de Chile) con tesis sobre evaluación de LLMs en desambiguación de acrónimos en español — GPT, Gemini y DeepSeek en corpus biomédico y multidominio.
 - Me interesa la intersección entre NLP, IA generativa y sistemas productivos.
